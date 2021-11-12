@@ -1,0 +1,97 @@
+html{
+width:100%;
+}
+
+h1 {
+	font-family: 'Times New Roman', serif;
+  color: #000000;
+  text-align: center;
+  width:80%;
+  margin:0;
+  margin-right: auto;
+	margin-left: auto;
+	
+}
+
+h2 {
+	font-family: Georgia, serif;
+  color: #000000;
+  text-align: center;
+  width:80%;
+  margin:0;
+  margin-right: auto;
+	margin-left: auto;
+}
+
+h3 {
+	font-family: Georgia, serif;
+  color: #000000;
+  text-align: center;
+  width:20%;
+  margin:0;
+  margin-right: auto;
+	margin-left: auto;
+}
+body {
+  background-image: url("https://estaticos.muyinteresante.es/uploads/images/gallery/5f1fdbe05bafe8e7540b4de7/bosque_slide.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  margin:0;
+  padding:0;
+
+}
+
+div{ 
+	width:80%;
+	margin-right: auto;
+	margin-left: auto;
+	background: rgba(242, 242, 242, 0.6);
+	border-radius: 10px;
+	margin-bottom:15px;
+	padding: 20px;
+}
+
+nav{
+	width:80%;
+	margin-right: auto;
+	margin-left: auto;
+	background: rgba(242, 242, 242, 0.6);
+	border-radius: 10px;
+	margin-bottom:15px;
+	padding: 20px;
+
+
+		
+		}.menuCSS3 ul {
+		display: flex;
+		padding: 0;
+		margin: 0;
+		list-style: none;
+	}
+	.menuCSS3 a {
+		display: block;
+		padding: 2em;
+	
+		text-decoration: none;
+		color: #191C26;
+	}
+	.menuCSS3 a:hover {
+		background-color: #e6e6e6;
+	}
+	.menuCSS3 ul li ul {
+		display: none;
+	}
+	.menuCSS3 ul li a:hover + ul, .menuCSS3 ul li ul:hover {
+		display: block;
+	}
+
+img { 
+	width:70%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+}
